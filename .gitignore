@@ -1,0 +1,4 @@
+*.jsonl
+data/
+models/
+.*env
